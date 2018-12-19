@@ -1,0 +1,20 @@
+{
+   "name": "functional-coffeescript",
+   "version": "0.0.1",
+   "description": "Demonstrating some functional programming concepts using CoffeeScript",
+   "main": "index.coffee",
+   "dependencies": {},
+   "devDependencies": {
+      "coffeescript": "^2.3.2"
+   },
+   "scripts": {
+      "start": "coffee index.coffee",
+      "test": "echo 0/0 tests passed. live dangerously."
+   },
+   "author": "haksayng",
+   "license": "MIT",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/haksayng/functional-coffeescript"
+   }
+}
